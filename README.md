@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TwoGiraffes Russell
-- 👀 I’m interested in becoming a Blockchain Developer
-- 🌱 I’m currently learning JavaScript, Solidity.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m an aspiring Blockchain Developer
+- 🌱 I’m currently learning Solidity and JavaScript.
 - 📫 How to reach me - tbc
 
 <!---
